@@ -1,4 +1,4 @@
-# Calculadora de IMC
+# Calculadora de IMC <img align="center" alt="Gut-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Gut-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 O programa solicita o usuario que digite sua altura e seu peso, logo dentro de uma condição ele calcula e retorna ao usuario seu estádo de saude como: 
 abaixo do peso, peso normal, sobrepeso, obesidade grau I, obesidade grau II, Obesidade grau III/morbida.
 Para funcionar o programa você precisa emular o codigo no android studio, e utilizar de um android connectado usb ou em ambiente virtual.
